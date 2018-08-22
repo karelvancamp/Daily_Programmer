@@ -1,0 +1,3 @@
+PROBLEM_FILE = problem.tsp
+RUNS = 1
+TOUR_FILE = problem.tsp.out

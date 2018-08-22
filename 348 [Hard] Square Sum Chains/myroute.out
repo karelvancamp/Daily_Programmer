@@ -1,0 +1,23 @@
+NAME : Problem.16.tour
+COMMENT : Length = 16
+COMMENT : Found by LKH [Keld Helsgaun] Sun Jan 28 15:36:40 2018
+TYPE : TOUR
+DIMENSION : 15
+TOUR_SECTION
+1
+8
+9
+7
+2
+14
+11
+5
+4
+12
+13
+3
+6
+10
+15
+-1
+EOF

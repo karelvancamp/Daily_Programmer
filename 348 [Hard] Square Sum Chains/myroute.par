@@ -1,0 +1,4 @@
+PROBLEM_FILE = myroute.tsp
+    RUNS = 4
+    TOUR_FILE =  myroute.out
+    
