@@ -66,9 +66,9 @@ Length 822
 - Calculate spacing distances
 - Remove isolated nodes (no 0 cost edges)
 - Remove cliques size 2 which have a node in upper average distance.
- Use binary search to find optimal cutoff value these
- - Run TSP-solver on leftover nodes
- - Find lowest cost subsection (lowest moving sum)
+	Use binary search to find optimal cutoff value these
+	- Run TSP-solver on leftover nodes
+	- Find lowest cost subsection (lowest moving sum)
 
 #### Found solution
 
